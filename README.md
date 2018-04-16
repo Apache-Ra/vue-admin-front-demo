@@ -1,4 +1,4 @@
-# education-analytics-web-front
+# vue-admin-front-demo
 
 > A Vue.js project
 
